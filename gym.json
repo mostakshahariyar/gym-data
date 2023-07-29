@@ -1,0 +1,44 @@
+[
+        {
+                "id": 1,
+                "name": "John Parsons",
+                "title": "FITNESS COACH",
+                "rating": 4.5,
+                "img": "https://i.ibb.co/pZm0SbR/team-img-8.jpg"
+        },
+        {
+                "id": 2,
+                "name": "Gloria Dixon",
+                "title":"FITNESS COACH",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+        },
+        {
+                "id": 3,
+                "name": "Penelope Parsons",
+                "titel":"CROSSFIT COACH",
+                "rating": 4.2,
+                "img": "https://i.ibb.co/d6fJmZZ/team-img-3.jpg"
+        },
+        {
+                "id": 4,
+               "name":"William Peters",
+               "title":"FITNESS COACH",
+                "rating": 4.6,
+                "img": "https://i.ibb.co/R27vTdF/team-img-5.jpg"
+        },
+        {
+                "id": 5,
+                "name":"Jane Davidson",
+                "titel":"GYM COACH",
+                "rating": 4.5,
+                "img": "https://i.ibb.co/VC4Jym2/team-img-4.jpg"
+        },
+        {
+                "id": 6,
+                "name":"Jacob Stewart",
+                "title":"BODYBUILDING COACH",
+                "rating": 4.8,
+                "img": "https://i.ibb.co/3kNcq7g/team-img-2.jpg"
+        }
+]
