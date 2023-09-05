@@ -40,5 +40,19 @@
                 "title":"BODYBUILDING COACH",
                 "rating": 4.8,
                 "img": "https://i.ibb.co/3kNcq7g/team-img-2.jpg"
+        },
+        {
+                "id": 7,
+                "name":"Jane Davidson",
+                "titel":"GYM COACH",
+                "rating": 4.5,
+                "img": "https://i.ibb.co/VC4Jym2/team-img-4.jpg"
+        },
+        {
+                "id": 8,
+                "name": "Gloria Dixon",
+                "title":"FITNESS COACH",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
         }
 ]
