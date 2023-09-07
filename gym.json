@@ -3,7 +3,7 @@
                 "id": 1,
                 "name": "John Parsons",
                 "title": "FITNESS COACH",
-                "rating": 4.0,
+                "rating": 3.0,
                 "description": "Fitness coaches help people achieve long-term health and fitness goals in areas such as weight management and body shaping. They coach their clients to develop a healthy lifestyle through plans that often include the exercise and workout programs that are part of personal training.",
                 "img": "https://i.ibb.co/pZm0SbR/team-img-8.jpg"
         },
@@ -12,7 +12,7 @@
                 "name": "Gloria Dixon",
                 "title":"Strength Training 101",
                 "description" : "This course is designed for beginners who want to learn the fundamentals of strength training. Participants will focus on lifting weights to build muscle, increase overall strength, and improve their fitness levels. The course typically covers proper form, different exercises, and basic workout routines.",
-                "rating": 4.1,
+                "rating": 3.1,
                 "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
         },
         {
@@ -36,7 +36,7 @@
                 "name": "Gloria Dixon",
                 "title":"Cycling for Beginners",
                 "description":"Ideal for newcomers to cycling, this introductory course covers bike safety, basic riding skills, and fundamental knowledge to help individuals start their cycling journey.",
-                "rating": 4.0,
+                "rating": 3.0,
                 "img": "https://i.ibb.co/5LbjFqC/Cycling-for-Beginners.jpg"
         },
         {
@@ -76,7 +76,7 @@
                 "name":"Jane Davidson",
                 "title":"Pilates Core Conditioning",
                 "description" : "Pilates focuses on strengthening the core muscles, improving posture, and enhancing overall body flexibility. This course typically includes a series of controlled movements and exercises performed on a mat or specialized equipment.",
-                "rating": 4.5,
+                "rating": 3.5,
                 "img": "https://i.ibb.co/JybLLcx/Pilates-Core-Conditioning.jpg"
         },
         {
@@ -84,7 +84,7 @@
                 "name": "Gloria Dixon",
                 "title":"Aqua Aerobics",
                 "description":" Aqua aerobics is a low-impact exercise class conducted in a pool. It's gentle on the joints and focuses on improving cardiovascular fitness, strength, and flexibility in a buoyant water environment.",
-                "rating": 4.1,
+                "rating": 3.1,
                 "img": "https://i.ibb.co/fth4265/Aqua-Aerobics.jpg"
         },
         {
@@ -92,7 +92,7 @@
                 "name": "Penelope Parsons",
                 "title":"Cardio Kickboxing",
                 "description": "Cardio kickboxing is a dynamic and energetic workout that combines elements of martial arts with cardiovascular exercise. Participants can expect to punch, kick, and perform various martial arts movements to improve agility, coordination, and cardio fitness.",
-                "rating": 4.2,
+                "rating": 3.2,
                 "img": "https://i.ibb.co/2vxc0tm/Cardio-Kickboxing.jpg"
         },
         {
@@ -116,7 +116,7 @@
                 "name": "Gloria Dixon",
                 "title":"Nutrition and Fitness Coaching",
                 "description":"This course goes beyond exercise and includes guidance on healthy eating habits and nutritional choices to complement a fitness routine. Participants learn how to balance diet and exercise for optimal results.",
-                "rating": 4.1,
+                "rating": 3.1,
                 "img": "https://i.ibb.co/9q90cmj/Nutrition-and-Fitness-Coaching.jpg"
         },
         {
@@ -149,7 +149,7 @@
                 "name":"Jacob Stewart",
                 "title":"Circuit Training",
                 "description" :"Circuit training is a versatile course that incorporates a variety of exercises, such as bodyweight exercises, weightlifting, and cardio moves. Participants move through different stations in a circuit, targeting various muscle groups and improving overall fitness.",
-                "rating": 4.8,
+                "rating": 3.8,
                 "img": "https://i.ibb.co/tD9rMZm/Circuit-Training.jpg"
         },
         {
@@ -164,7 +164,7 @@
                 "id": 21,                "name": "Gloria Dixon",
                 "title":"Mindful Movement",
                 "description":" This course emphasizes the connection between the mind and body, incorporating meditation and gentle movement exercises to reduce stress, increase awareness, and promote relaxation.",
-                "rating": 4.7,
+                "rating": 3.7,
                 "img": "https://i.ibb.co/mJ0gTht/Mindful-Movement.jpg"
         }
 ]
