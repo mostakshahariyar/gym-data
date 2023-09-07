@@ -25,28 +25,29 @@
         },
         {
                 "id": 4,
-                "name": "Penelope Parsons",
-                "title":"Cardio Kickboxing",
-                "description": "Cardio kickboxing is a dynamic and energetic workout that combines elements of martial arts with cardiovascular exercise. Participants can expect to punch, kick, and perform various martial arts movements to improve agility, coordination, and cardio fitness.",
-                "rating": 4.2,
-                "img": "https://i.ibb.co/2vxc0tm/Cardio-Kickboxing.jpg"
+                "name": "Gloria Dixon",
+                "title":"Bodyweight Bootcamp",
+                "description":" This bootcamp-style class uses the resistance of your own body weight to provide a challenging workout. Participants can expect a mix of calisthenics, plyometrics, and functional exercises to build strength and endurance.",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/rQ1yCSZ/Strength-Training-101.jpg"
         },
         {
                 "id": 5,
-                "name":"Jane Davidson",
-                "title":"HIIT (High-Intensity Interval Training)",
-                "description" : "HIIT is a high-intensity workout that involves short bursts of intense exercises followed by brief rest periods. It's designed to burn calories, improve cardiovascular fitness, and increase overall endurance in a shorter amount of time compared to traditional workouts.",
-                "rating": 4.5,
-                "img": "https://i.ibb.co/Bwx7zzP/HIIT-High-Intensity-Interval-Training.jpg"
+                "name": "Gloria Dixon",
+                "title":"Cycling for Beginners",
+                "description":"Ideal for newcomers to cycling, this introductory course covers bike safety, basic riding skills, and fundamental knowledge to help individuals start their cycling journey.",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/5LbjFqC/Cycling-for-Beginners.jpg"
         },
         {
                 "id": 6,
-                "name":"Jacob Stewart",
-                "title":"Circuit Training",
-                "description" :"Circuit training is a versatile course that incorporates a variety of exercises, such as bodyweight exercises, weightlifting, and cardio moves. Participants move through different stations in a circuit, targeting various muscle groups and improving overall fitness.",
-                "rating": 4.8,
-                "img": "https://i.ibb.co/tD9rMZm/Circuit-Training.jpg"
+                "name": "Gloria Dixon",
+                "title":"TRX Suspension Training",
+                "description":"TRX uses suspension straps anchored to a stable point to perform bodyweight exercises. It emphasizes core stability, balance, and strength training using a unique and versatile piece of equipment.",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/6XG8NJY/TRX-Suspension-Training.jpg"
         },
+        
         {
                 "id": 7,
                 "name":"Jane Davidson",
@@ -89,19 +90,19 @@
         },
         {
                 "id": 12,
-                "name": "Gloria Dixon",
-                "title":"Bodyweight Bootcamp",
-                "description":" This bootcamp-style class uses the resistance of your own body weight to provide a challenging workout. Participants can expect a mix of calisthenics, plyometrics, and functional exercises to build strength and endurance.",
-                "rating": 4.7,
-                "img": "https://i.ibb.co/rQ1yCSZ/Strength-Training-101.jpg"
+                "name": "Penelope Parsons",
+                "title":"Cardio Kickboxing",
+                "description": "Cardio kickboxing is a dynamic and energetic workout that combines elements of martial arts with cardiovascular exercise. Participants can expect to punch, kick, and perform various martial arts movements to improve agility, coordination, and cardio fitness.",
+                "rating": 4.2,
+                "img": "https://i.ibb.co/2vxc0tm/Cardio-Kickboxing.jpg"
         },
         {
                 "id": 13,
-                "name": "Gloria Dixon",
-                "title":"TRX Suspension Training",
-                "description":"TRX uses suspension straps anchored to a stable point to perform bodyweight exercises. It emphasizes core stability, balance, and strength training using a unique and versatile piece of equipment.",
-                "rating": 4.7,
-                "img": "https://i.ibb.co/6XG8NJY/TRX-Suspension-Training.jpg"
+                "name":"Jacob Stewart",
+                "title":"Circuit Training",
+                "description" :"Circuit training is a versatile course that incorporates a variety of exercises, such as bodyweight exercises, weightlifting, and cardio moves. Participants move through different stations in a circuit, targeting various muscle groups and improving overall fitness.",
+                "rating": 4.8,
+                "img": "https://i.ibb.co/tD9rMZm/Circuit-Training.jpg"
         },
         {
                 "id": 14,
@@ -145,11 +146,11 @@
         },
         {
                 "id": 19,
-                "name": "Gloria Dixon",
-                "title":"Cycling for Beginners",
-                "description":"Ideal for newcomers to cycling, this introductory course covers bike safety, basic riding skills, and fundamental knowledge to help individuals start their cycling journey.",
-                "rating": 4.7,
-                "img": "https://i.ibb.co/5LbjFqC/Cycling-for-Beginners.jpg"
+                "name":"Jane Davidson",
+                "title":"HIIT (High-Intensity Interval Training)",
+                "description" : "HIIT is a high-intensity workout that involves short bursts of intense exercises followed by brief rest periods. It's designed to burn calories, improve cardiovascular fitness, and increase overall endurance in a shorter amount of time compared to traditional workouts.",
+                "rating": 4.5,
+                "img": "https://i.ibb.co/Bwx7zzP/HIIT-High-Intensity-Interval-Training.jpg"
         },
         {
                 "id": 20,
