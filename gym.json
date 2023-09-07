@@ -47,14 +47,13 @@
                 "rating": 4.7,
                 "img": "https://i.ibb.co/6XG8NJY/TRX-Suspension-Training.jpg"
         },
-        
         {
                 "id": 7,
-                "name":"Jane Davidson",
-                "title":"Pilates Core Conditioning",
-                "description" : "Pilates focuses on strengthening the core muscles, improving posture, and enhancing overall body flexibility. This course typically includes a series of controlled movements and exercises performed on a mat or specialized equipment.",
-                "rating": 4.5,
-                "img": "https://i.ibb.co/JybLLcx/Pilates-Core-Conditioning.jpg"
+                "name": "Gloria Dixon",
+                "title":"Zumba Dance Fitness",
+                "description":" Zumba is a fun and energetic dance workout that incorporates Latin and international dance styles. Participants can expect to groove to the music while getting a full-body aerobic workout.",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/xzcCWxc/Zumba-Dance-Fitness.jpg"
         },
         {
                 "id": 8,
@@ -74,11 +73,11 @@
         },
         {
                 "id": 10,
-                "name": "Gloria Dixon",
-                "title":"Zumba Dance Fitness",
-                "description":" Zumba is a fun and energetic dance workout that incorporates Latin and international dance styles. Participants can expect to groove to the music while getting a full-body aerobic workout.",
-                "rating": 4.7,
-                "img": "https://i.ibb.co/xzcCWxc/Zumba-Dance-Fitness.jpg"
+                "name":"Jane Davidson",
+                "title":"Pilates Core Conditioning",
+                "description" : "Pilates focuses on strengthening the core muscles, improving posture, and enhancing overall body flexibility. This course typically includes a series of controlled movements and exercises performed on a mat or specialized equipment.",
+                "rating": 4.5,
+                "img": "https://i.ibb.co/JybLLcx/Pilates-Core-Conditioning.jpg"
         },
         {
                 "id": 11,
@@ -98,11 +97,11 @@
         },
         {
                 "id": 13,
-                "name":"Jacob Stewart",
-                "title":"Circuit Training",
-                "description" :"Circuit training is a versatile course that incorporates a variety of exercises, such as bodyweight exercises, weightlifting, and cardio moves. Participants move through different stations in a circuit, targeting various muscle groups and improving overall fitness.",
-                "rating": 4.8,
-                "img": "https://i.ibb.co/tD9rMZm/Circuit-Training.jpg"
+                "name":"Jane Davidson",
+                "title":"HIIT (High-Intensity Interval Training)",
+                "description" : "HIIT is a high-intensity workout that involves short bursts of intense exercises followed by brief rest periods. It's designed to burn calories, improve cardiovascular fitness, and increase overall endurance in a shorter amount of time compared to traditional workouts.",
+                "rating": 4.5,
+                "img": "https://i.ibb.co/Bwx7zzP/HIIT-High-Intensity-Interval-Training.jpg"
         },
         {
                 "id": 14,
@@ -115,19 +114,20 @@
         {
                 "id": 15,
                 "name": "Gloria Dixon",
-                "title":"Senior Fitness",
-                "description":"Tailored for older adults, senior fitness classes focus on mobility, balance, and strength to maintain a healthy and active lifestyle in later years. Exercises are modified to suit the needs and abilities of older participants.",
-                "rating": 4.7,
-                "img": "https://i.ibb.co/BGz1t43/Senior-Fitness.jpg"
-        },
-        {
-                "id": 16,
-                "name": "Gloria Dixon",
                 "title":"Nutrition and Fitness Coaching",
                 "description":"This course goes beyond exercise and includes guidance on healthy eating habits and nutritional choices to complement a fitness routine. Participants learn how to balance diet and exercise for optimal results.",
                 "rating": 4.7,
                 "img": "https://i.ibb.co/9q90cmj/Nutrition-and-Fitness-Coaching.jpg"
         },
+        {
+                "id": 16,
+                "name": "Gloria Dixon",
+                "title":"Senior Fitness",
+                "description":"Tailored for older adults, senior fitness classes focus on mobility, balance, and strength to maintain a healthy and active lifestyle in later years. Exercises are modified to suit the needs and abilities of older participants.",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/BGz1t43/Senior-Fitness.jpg"
+        },
+        
         {
                 "id": 17,
                 "name": "Gloria Dixon",
@@ -146,11 +146,11 @@
         },
         {
                 "id": 19,
-                "name":"Jane Davidson",
-                "title":"HIIT (High-Intensity Interval Training)",
-                "description" : "HIIT is a high-intensity workout that involves short bursts of intense exercises followed by brief rest periods. It's designed to burn calories, improve cardiovascular fitness, and increase overall endurance in a shorter amount of time compared to traditional workouts.",
-                "rating": 4.5,
-                "img": "https://i.ibb.co/Bwx7zzP/HIIT-High-Intensity-Interval-Training.jpg"
+                "name":"Jacob Stewart",
+                "title":"Circuit Training",
+                "description" :"Circuit training is a versatile course that incorporates a variety of exercises, such as bodyweight exercises, weightlifting, and cardio moves. Participants move through different stations in a circuit, targeting various muscle groups and improving overall fitness.",
+                "rating": 4.8,
+                "img": "https://i.ibb.co/tD9rMZm/Circuit-Training.jpg"
         },
         {
                 "id": 20,
