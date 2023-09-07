@@ -21,7 +21,7 @@
                 "title":"Cardio Kickboxing",
                 "description": "Cardio kickboxing is a dynamic and energetic workout that combines elements of martial arts with cardiovascular exercise. Participants can expect to punch, kick, and perform various martial arts movements to improve agility, coordination, and cardio fitness.",
                 "rating": 4.2,
-                "img": "https://i.ibb.co/d6fJmZZ/team-img-3.jpg"
+                "img": "https://i.ibb.co/2vxc0tm/Cardio-Kickboxing.jpg"
         },
         {
                 "id": 4,
@@ -37,7 +37,7 @@
                 "title":"HIIT (High-Intensity Interval Training)",
                 "description" : "HIIT is a high-intensity workout that involves short bursts of intense exercises followed by brief rest periods. It's designed to burn calories, improve cardiovascular fitness, and increase overall endurance in a shorter amount of time compared to traditional workouts.",
                 "rating": 4.5,
-                "img": "https://i.ibb.co/VC4Jym2/team-img-4.jpg"
+                "img": "https://i.ibb.co/Bwx7zzP/HIIT-High-Intensity-Interval-Training.jpg"
         },
         {
                 "id": 6,
@@ -45,7 +45,7 @@
                 "title":"Circuit Training",
                 "description" :"Circuit training is a versatile course that incorporates a variety of exercises, such as bodyweight exercises, weightlifting, and cardio moves. Participants move through different stations in a circuit, targeting various muscle groups and improving overall fitness.",
                 "rating": 4.8,
-                "img": "https://i.ibb.co/3kNcq7g/team-img-2.jpg"
+                "img": "https://i.ibb.co/tD9rMZm/Circuit-Training.jpg"
         },
         {
                 "id": 7,
@@ -53,7 +53,7 @@
                 "title":"Pilates Core Conditioning",
                 "description" : "Pilates focuses on strengthening the core muscles, improving posture, and enhancing overall body flexibility. This course typically includes a series of controlled movements and exercises performed on a mat or specialized equipment.",
                 "rating": 4.5,
-                "img": "https://i.ibb.co/VC4Jym2/team-img-4.jpg"
+                "img": "https://i.ibb.co/JybLLcx/Pilates-Core-Conditioning.jpg"
         },
         {
                 "id": 8,
@@ -61,7 +61,7 @@
                 "title":"Spinning or Indoor Cycling",
                 "description":"In a spinning class, participants use stationary bikes to simulate outdoor cycling. It's an excellent cardiovascular workout that also strengthens the legs and burns calories in a group setting, often accompanied by motivating music.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/Ws25XPD/Spinning-or-Indoor-Cycling.jpg"
         },
         {
                 "id": 9,
@@ -69,7 +69,7 @@
                 "title":"CrossFit Fundamentals",
                 "description":"CrossFit is known for its high-intensity functional fitness workouts. The fundamentals course introduces participants to CrossFit techniques, Olympic weightlifting, and bodyweight exercises, emphasizing proper form and safety.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/wS9nshh/Cross-Fit-Fundamentals.jpg"
         },
         {
                 "id": 10,
@@ -77,7 +77,7 @@
                 "title":"Zumba Dance Fitness",
                 "description":" Zumba is a fun and energetic dance workout that incorporates Latin and international dance styles. Participants can expect to groove to the music while getting a full-body aerobic workout.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/xzcCWxc/Zumba-Dance-Fitness.jpg"
         },
         {
                 "id": 11,
@@ -85,7 +85,7 @@
                 "title":"Aqua Aerobics",
                 "description":" Aqua aerobics is a low-impact exercise class conducted in a pool. It's gentle on the joints and focuses on improving cardiovascular fitness, strength, and flexibility in a buoyant water environment.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/fth4265/Aqua-Aerobics.jpg"
         },
         {
                 "id": 12,
@@ -93,7 +93,7 @@
                 "title":"Bodyweight Bootcamp",
                 "description":" This bootcamp-style class uses the resistance of your own body weight to provide a challenging workout. Participants can expect a mix of calisthenics, plyometrics, and functional exercises to build strength and endurance.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/rQ1yCSZ/Strength-Training-101.jpg"
         },
         {
                 "id": 13,
@@ -101,7 +101,7 @@
                 "title":"TRX Suspension Training",
                 "description":"TRX uses suspension straps anchored to a stable point to perform bodyweight exercises. It emphasizes core stability, balance, and strength training using a unique and versatile piece of equipment.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/6XG8NJY/TRX-Suspension-Training.jpg"
         },
         {
                 "id": 14,
@@ -109,7 +109,7 @@
                 "title":"Barre Fitness",
                 "description":" Barre fitness combines elements of ballet, Pilates, and yoga to sculpt and tone the body. Participants often use a ballet barre for support while performing isometric movements and small, controlled motions.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/9WP50KB/Yoga-for-Flexibility.jpg"
         },
         {
                 "id": 15,
@@ -117,7 +117,7 @@
                 "title":"Senior Fitness",
                 "description":"Tailored for older adults, senior fitness classes focus on mobility, balance, and strength to maintain a healthy and active lifestyle in later years. Exercises are modified to suit the needs and abilities of older participants.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/BGz1t43/Senior-Fitness.jpg"
         },
         {
                 "id": 16,
@@ -125,7 +125,7 @@
                 "title":"Nutrition and Fitness Coaching",
                 "description":"This course goes beyond exercise and includes guidance on healthy eating habits and nutritional choices to complement a fitness routine. Participants learn how to balance diet and exercise for optimal results.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/9q90cmj/Nutrition-and-Fitness-Coaching.jpg"
         },
         {
                 "id": 17,
@@ -133,7 +133,7 @@
                 "title":"Martial Arts Fitness",
                 "description":"Combining martial arts techniques with fitness training, this course provides a full-body workout while also teaching self-defense skills and discipline.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/5GWK1hf/Martial-Arts-Fitness.jpg"
         },
         {
                 "id": 18,
@@ -141,7 +141,7 @@
                 "title":"Powerlifting Workshop",
                 "description":"Geared toward those interested in powerlifting, this workshop delves into the squat, bench press, and deadlift. Participants learn proper form and techniques to maximize their strength gains.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/2tTqTxR/Powerlifting-Workshop.jpg"
         },
         {
                 "id": 19,
@@ -149,7 +149,7 @@
                 "title":"Cycling for Beginners",
                 "description":"Ideal for newcomers to cycling, this introductory course covers bike safety, basic riding skills, and fundamental knowledge to help individuals start their cycling journey.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/5LbjFqC/Cycling-for-Beginners.jpg"
         },
         {
                 "id": 20,
@@ -157,7 +157,7 @@
                 "title":"Booty Building and Glute Activation",
                 "description":"Focused on the lower body, this course aims to strengthen and tone the glute muscles through targeted exercises that help participants achieve a shapely and strong posterior.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/9NCNQ7c/Booty-Building-and-Glute-Activation.jpg"
         },
         {
                 "id": 21,
@@ -165,6 +165,6 @@
                 "title":"Mindful Movement",
                 "description":" This course emphasizes the connection between the mind and body, incorporating meditation and gentle movement exercises to reduce stress, increase awareness, and promote relaxation.",
                 "rating": 4.7,
-                "img": "https://i.ibb.co/xsnCdST/team-img-1.jpg"
+                "img": "https://i.ibb.co/mJ0gTht/Mindful-Movement.jpg"
         }
 ]
