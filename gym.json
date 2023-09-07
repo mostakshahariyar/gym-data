@@ -17,19 +17,19 @@
         },
         {
                 "id": 3,
-                "name": "Penelope Parsons",
-                "title":"Cardio Kickboxing",
-                "description": "Cardio kickboxing is a dynamic and energetic workout that combines elements of martial arts with cardiovascular exercise. Participants can expect to punch, kick, and perform various martial arts movements to improve agility, coordination, and cardio fitness.",
-                "rating": 4.2,
-                "img": "https://i.ibb.co/2vxc0tm/Cardio-Kickboxing.jpg"
-        },
-        {
-                "id": 4,
                "name":"William Peters",
                "title":"Yoga for Flexibility",
                "description" : "This yoga course is tailored to those looking to enhance their flexibility, balance, and relaxation. It often includes a series of poses and stretches that aim to increase joint mobility and reduce tension in the body while promoting mental well-being.",
                 "rating": 4.6,
                 "img": "https://i.ibb.co/R27vTdF/team-img-5.jpg"
+        },
+        {
+                "id": 4,
+                "name": "Penelope Parsons",
+                "title":"Cardio Kickboxing",
+                "description": "Cardio kickboxing is a dynamic and energetic workout that combines elements of martial arts with cardiovascular exercise. Participants can expect to punch, kick, and perform various martial arts movements to improve agility, coordination, and cardio fitness.",
+                "rating": 4.2,
+                "img": "https://i.ibb.co/2vxc0tm/Cardio-Kickboxing.jpg"
         },
         {
                 "id": 5,
