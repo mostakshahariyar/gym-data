@@ -16,7 +16,7 @@
         {
                 "id": 3,
                 "name": "Penelope Parsons",
-                "titel":"CROSSFIT COACH",
+                "title":"CROSSFIT COACH",
                 "rating": 4.2,
                 "img": "https://i.ibb.co/d6fJmZZ/team-img-3.jpg"
         },
@@ -30,7 +30,7 @@
         {
                 "id": 5,
                 "name":"Jane Davidson",
-                "titel":"GYM COACH",
+                "title":"GYM COACH",
                 "rating": 4.5,
                 "img": "https://i.ibb.co/VC4Jym2/team-img-4.jpg"
         },
@@ -44,7 +44,7 @@
         {
                 "id": 7,
                 "name":"Jane Davidson",
-                "titel":"GYM COACH",
+                "title":"GYM COACH",
                 "rating": 4.5,
                 "img": "https://i.ibb.co/VC4Jym2/team-img-4.jpg"
         },
